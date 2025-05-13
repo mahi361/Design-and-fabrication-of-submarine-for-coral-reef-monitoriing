@@ -2,7 +2,9 @@
 Pushing and sucking
 
 This video demonstrates the pushing and suction mechanism of water!!
-![Demo](pushing_sucking_water.gif)
+
+![Demo](.github/assets/pushing_sucking_water.gif)
+
 
 
 ## Pushing the water
