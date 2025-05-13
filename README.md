@@ -10,18 +10,18 @@ This video demonstrates the pushing and suction mechanism of water!!
 ## Pushing the water
 This video demonstrates the pushing mechanism of water!!
 
-![Demo](Pushing_Water_video.gif)
+![Demo](.github/assets/(Pushing_Water_video.gif)
 
 
 
 ## suction of water
 This video demonstrates the sucking mechanism of water!!
 
-![Demo](suction_of_water_video.gif)
+ ![Demo](.github/assets/(suction_of_water_video.gif)
 
 
 ## Raspberyy pi setup
 This video demonstrates the setup of raspberry-pi4 without monitor
 
-![Demo](rpi_setup_video.gif)
+![Demo](.github/assets/(rpi_setup_video.gif)
 
