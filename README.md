@@ -79,8 +79,8 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <div align="center">
 <table>
   <tr>
-    <td width="60%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="70%"><br>(a) </td>
-    <td width="70%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png" width="70%"><br>(b) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png" width="100%"><br>(b) </td>
   </tr>
 </table>
 <p>(a), (b) Circuit diagram for motors (left) Circuit diagram for sensors (right).</p>
@@ -99,7 +99,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
      <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(c) </td>
   </tr>
 </table>
-<p>(a), (b) , (c) Ballast System (left) subamarine output (right) Submarine output with propellor(down).</p>
+<p>(a), (b) , (c) Ballast System , subamarine output , Submarine output with propellor.</p>
 </div>
 <br>
 
