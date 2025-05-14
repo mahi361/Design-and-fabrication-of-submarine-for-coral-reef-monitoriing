@@ -43,7 +43,7 @@ submarine from water. Initially submarine is controlled using arduino uno and la
     <td width=25%> <img src = "Components/limit_switch.png" width="100%"><br>(h) </td>
   </tr>
     <tr>  
-    <td width=25%> <img src = "Component/water_pump.png" width="100"><br>(i) </td>
+    <td width=35%> <img src = "Component/water_pump.png" width="100"><br>(i) </td>
     <td width=25%> <img src = "Components/uno cable.jpeg" width="100%"><br>(j) </td>
     <td width=25%> <img src = "Components/syringes.jpeg" width="100%"><br>(k) </td>
     <td width=25%> <img src = "Components/dpdt.jpeg" width="100%"><br>(l) </td>
