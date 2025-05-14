@@ -1,4 +1,4 @@
-<h1 align="center">TrackerBot: Design and fabrication of submarine for monitoring coral reefs</h1>
+<h1 align="center"> Design and fabrication of submarine for monitoring coral reefs</h1>
 
 
 
