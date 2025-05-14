@@ -1,3 +1,128 @@
+<h1 align="center">TrackerBot: Design and fabrication of submarine for monitoring coral reefs</h1>
+
+
+
+> *Abstract:*A simple submarine model for coral reef monitoring which is a manually operated vehicle and
+uses three types of sensors for monitoring the water in the coral roof ecosystem is presented in this
+paper. Coral reefs play a crucial role in the marine ecosystem by serving as a habitat for a wide range
+of marine species and supporting the livelihoods of coastal communities. Nevertheless, these delicate
+ecosystems are currently facing unparalleled challenges due to climate change, pollution, and human
+activities. It is crucial to implement effective monitoring and conservation measures to ensure the
+preservation of the health and diversity of coral reefs. The manually operated submarine is capable of
+navigating in the water, measuring and collecting data of TDS level of water, temperature of water and
+pressure at the water various levels of water. For monitoring the collected data, we are using a Micro
+SD card module to store the collected data so that we can observe the data after getting out the
+submarine from water. Submarine is controlled using Raspberry pi 4.
+
+<h2>Submarine</h2>
+
+<div align="center">
+<img src = "Design_files/chasis_07.jpg" width="100%">
+</div>
+
+
+<h2>Components</h2>
+
+<div align="center">
+<table>
+  <tr >
+    <td width=25%> <img src = "/ardunio.png" width="100%"><br>(a) </td>
+    <td width=25%> <img src = "Images/jetson_nano.png" width="100%"><br>(b) </td>
+    <td width=25%> <img src = "Images/L298N.png" width="100%"><br>(c) </td>
+    <td width=25%> <img src = "Images/lm393.png" width="75%"><br>(d) </td>
+  </tr>
+  <tr>  
+    <td width=25%> <img src = "Images/oled.png" width="1005"><br>(e) </td>
+    <td width=25%> <img src = "Images/ultrasonic_sensor.png" width="100%"><br>(f) </td>
+    <td width=25%> <img src = "Images/webcam.png" width="100%"><br>(g) </td>
+    <td width=25%> <img src = "Images/wifi.png" width="100%"><br>(h) </td>
+  </tr>
+    <tr>  
+    <td width=25%> <img src = "Images/body.png" width="1005"><br>(i) </td>
+    <td width=25%> <img src = "Images/cable.png" width="100%"><br>(j) </td>
+    <td width=25%> <img src = "Images/Duracell.png" width="100%"><br>(k) </td>
+    <td width=25%> <img src = "Images/micro-USB.png" width="100%"><br>(l) </td>
+  </tr>
+</table>
+<p>(a) Ardunio Uno (2x), (b) Nvdia Jetson Nano (a), (c) L298 Motor Driver, (d) LM393 IR Speed Sensor (2x), (e) 128x32 OLED I2C Display, (f) HC-SR04 Ultrasonic Distence Sensor (2x), (g) HP W100 480p/30 fps Webcam, (h) 802.11n WIFI Adapter, (i) 2 Wheel Car Robot Chassis with Motors, (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (2x) (k) AA Battery (8x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging) </p>
+</div>
+
+<h2>Overall Framework</h2>
+
+<h3>1. ROS Architecture</h3>
+<br>
+<div align="center">
+<img src = "Images/Ros_architecture.png" width="100%">
+<p>Conceptual view of the ROS architecture </p>
+</div>
+
+
+<h3>2. Power System</h3>
+
+<br>
+
+<div align="center">
+<img src = "Images/Power Supply.png" width="70%">
+<p>The overall power supply chain in the AGV </p>
+</div>
+
+
+
+<h3>3. Navigation Module</h3>
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%"> <img src = "Images/Motor Driver and encoder.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Images/Motor Driver and Encoder_schem.png" width="100%"><br>(b) </td>
+  </tr>
+</table>
+<p>(a), (b) Detailed diagram of the basic Navigation module (left) The overall schematic architecture of Navigation Module (right).</p>
+</div>
+<br>
+
+<h3>2. Obstacle Avoidance System</h3>
+
+<br>
+
+<div align="center">
+<img src = "Images/Obstacle.png" width="70%">
+<p>TThe overall schematic architecture of the Obstacle Detection module in
+Autonomous Ground Vehicle </p>
+</div>
+
+
+
+## Results:
+
+https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-4198-b432-6f4fb06c4e33
+
+
+
+https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/fcdceb95-c8d1-49dd-a1ec-9609045fa937
+
+
+
+
+  
+
+## Quick Links:
+
+
+
+
+
+## References Used:
+- https://github.com/vinay-lanka/navbot_hardware
+- https://github.com/leggedrobotics/darknet_ros
+- https://github.com/ros-drivers/usb_cam
+
+
+
+
+
+
 # output videos
 Pushing and sucking
 
