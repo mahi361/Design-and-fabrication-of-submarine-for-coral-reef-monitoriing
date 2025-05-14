@@ -59,8 +59,8 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "testing_phase/2ND_Stage_uno.jpg" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "testing_phase/initail_01_testing.jpg" width="100%"><br>(b) </td>
+    <td width="30%"> <img src = "testing_phase/2ND_Stage_uno.jpg" width="100%"><br>(a) </td>
+    <td width="30%"> <img src = "testing_phase/initial_01_testing.jpg" width="100%"><br>(b) </td>
     <td width="60%"> <img src = "testing_phase/sensors_arrangement.jpg" width="100%"><br>(c) </td>
   </tr>
 </table>
