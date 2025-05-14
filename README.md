@@ -68,7 +68,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 
 <div align="center">
 <img src = "Circuit_diagram/rpi_circuit/circuit.png" width="70%">
-<p>The overall power supply chain in the AGV </p>
+<p>Circuit digram for raspberry pi-4 </p>
 </div>
 
 
