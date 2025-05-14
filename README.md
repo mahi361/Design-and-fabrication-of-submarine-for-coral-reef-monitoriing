@@ -89,7 +89,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <table>
   <tr>
     <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png" width="100%"><br>(b) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png" width="120%"><br>(b) </td>
   </tr>
 </table>
 <p>(a), (b) Circuit diagram for motors (left) Circuit diagram for sensors (right).</p>
