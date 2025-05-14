@@ -49,7 +49,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
     <td width=25%> <img src = "Images/micro-USB.png" width="100%"><br>(l) </td>
   </tr>
 </table>
-<p>(a) Ardunio Uno (2x), (b) Nvdia Jetson Nano (a), (c) L298 Motor Driver, (d) LM393 IR Speed Sensor (2x), (e) 128x32 OLED I2C Display, (f) HC-SR04 Ultrasonic Distence Sensor (2x), (g) HP W100 480p/30 fps Webcam, (h) 802.11n WIFI Adapter, (i) 2 Wheel Car Robot Chassis with Motors, (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (2x) (k) AA Battery (8x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging) </p>
+<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging), (m) Acrylic sheets (2x), (n) Pvc pipe (2x), (o) coupler (2x) Threaded rods 3mm (3x) </p>
 </div>
 
 <h2>Overall Framework</h2>
@@ -67,7 +67,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <br>
 
 <div align="center">
-<img src = "Images/Power Supply.png" width="70%">
+<img src = "Circuit_diagram/rpi_circuit/circuit.png" width="70%">
 <p>The overall power supply chain in the AGV </p>
 </div>
 
@@ -79,8 +79,8 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "Images/Motor Driver and encoder.png" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "Images/Motor Driver and Encoder_schem.png" width="100%"><br>(b) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit/motors.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit/sensor_circuit.png" width="100%"><br>(b) </td>
   </tr>
 </table>
 <p>(a), (b) Detailed diagram of the basic Navigation module (left) The overall schematic architecture of Navigation Module (right).</p>
