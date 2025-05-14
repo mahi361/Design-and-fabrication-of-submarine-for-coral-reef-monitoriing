@@ -1,4 +1,6 @@
 <h1 align="center"> Design and fabrication of submarine for monitoring coral reefs</h1>
+<img src=".github/assest/hits_logo.png" width="700" height="">
+
 
 
 
