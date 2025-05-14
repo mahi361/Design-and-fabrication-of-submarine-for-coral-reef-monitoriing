@@ -52,7 +52,7 @@ submarine from water. Initially submarine is controlled using arduino uno and la
     <td width=25%> <img src = "Components/syringes.jpeg" width="1005"><br>(m) </td>
     <td width=25%> <img src = "Components/threaded rods.png" width="100%"><br>(n) </td>
     <td width=25%> <img src = "Components/li-ion batteris.png" width="100%"><br>(o) </td>
-    <td width=25%> <img src = "Components/limit_coupler.jpeg" width="100%"><br>(p) </td>
+    <td width=25%> <img src = "Components/coupler.jpeg" width="100%"><br>(p) </td>
   </tr>
 </table>
 <p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x),  Dpdt switches (2x) , (m) Acrylic sheets (2x), (n)  Threaded rods 3mm (3x), (o) coupler (2x) </p>
