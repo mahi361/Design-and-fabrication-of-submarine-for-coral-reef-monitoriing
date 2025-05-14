@@ -49,7 +49,7 @@ submarine from water. Initially submarine is controlled using arduino uno and la
     <td width=25%> <img src = "Images/micro-USB.png" width="100%"><br>(l) </td>
   </tr>
 </table>
-<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging), (m) Acrylic sheets (2x), (n) Pvc pipe (2x), (o) coupler (2x) Threaded rods 3mm (3x), (p) Dpdt switches (2x) </p>
+<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x),  Dpdt switches (2x) , (m) Acrylic sheets (2x), (n) Pvc pipe (2x), (o) coupler (2x) Threaded rods 3mm (3x), </p>
 </div>
 
 <h2>Overall Framework</h2>
