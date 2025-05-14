@@ -13,7 +13,7 @@ paper. Coral reefs play a crucial role in the marine ecosystem by serving as a h
 of marine species and supporting the livelihoods of coastal communities. Nevertheless, these delicate
 ecosystems are currently facing unparalleled challenges due to climate change, pollution, and human
 activities. It is crucial to implement effective monitoring and conservation measures to ensure the
-preservation of the health and diversity of coral reefs. The manually operated submarine with dpdt switchesis capable of
+preservation of the health and diversity of coral reefs. The manually operated submarine with dpdt switches is capable of
 navigating in the water, measuring and collecting data of TDS level of water, temperature of water and
 pressure at the water various levels of water. For monitoring the collected data, we are using a Micro
 SD card module to store the collected data so that we can observe the data after getting out the
@@ -49,7 +49,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
     <td width=25%> <img src = "Images/micro-USB.png" width="100%"><br>(l) </td>
   </tr>
 </table>
-<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging), (m) Acrylic sheets (2x), (n) Pvc pipe (2x), (o) coupler (2x) Threaded rods 3mm (3x) </p>
+<p>(a) Ardunio Uno (1), (b) Raspberry pi-4 (1), (c) DS182B0 Temperature Sensor, (d) HX710B Pressure Sensor (1), (e)TDS Sensor, (f) Direct Current 555 gear Motor (2x), (g) Lithium Ion Cells (8x), (h) Limit Switch (2x), (i) Water Pump Motor(2x), (j) 0.5 m Power Sharing USB A to USB B Cable for Arduino UNO (1) (k) Syringes 50cc (12x), (l) 5V ~ 3A Raspberry Pi 3 Power adapter (micro USB charging), (m) Acrylic sheets (2x), (n) Pvc pipe (2x), (o) coupler (2x) Threaded rods 3mm (3x), (p) Dpdt switches (2x) </p>
 </div>
 
 <h2>Overall Framework</h2>
