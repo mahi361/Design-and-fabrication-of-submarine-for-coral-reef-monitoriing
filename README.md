@@ -79,7 +79,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <div align="center">
 <table>
   <tr>
-    <td width="70%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="70%"><br>(a) </td>
+    <td width="60%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_cicuit.png" width="70%"><br>(a) </td>
     <td width="70%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_ciruit.png" width="70%"><br>(b) </td>
   </tr>
 </table>
@@ -94,8 +94,8 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <div align="center">
 <table>
   <tr>
-    <td width="30%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="30%"><br>(a) </td>
-    <td width="50%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
+    <td width="30%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="100%"><br>(a) </td>
+    <td width="30%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
      <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(c) </td>
   </tr>
 </table>
