@@ -54,10 +54,20 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 
 <h2>Overall Framework</h2>
 
-<h3>1. Methodology</h3>
+<h3>1. Testing phase for sensors and implanting on ballast sysem</h3>
 <br>
 <div align="center">
-<img src = "Images/Ros_architecture.png" width="100%">
+<table>
+  <tr>
+    <td width="33%"> <img src = "testing_phase/arduino_circuit_diagram/2ND_Stage_uno.jpg" width="100%"><br>(a) </td>
+    <td width="34%"> <img src = "testing_phase/arduino_circuit_diagram/initail_01_testing.jpg" width="100%"><br>(b) </td>
+    <td width="33%"> <img src = "testing_phase/arduino_circuit_diagram/sensors_arrangement.jpg" width="100%"><br>(c) </td>
+  </tr>
+</table>
+<p>(a), (b), (c) initial testing , 2nd stage testing, sensor arrangement on ballast system.</p>
+</div>
+<br>
+
 <p>Conceptual view of the ROS architecture </p>
 </div>
 
