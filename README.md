@@ -13,7 +13,7 @@ paper. Coral reefs play a crucial role in the marine ecosystem by serving as a h
 of marine species and supporting the livelihoods of coastal communities. Nevertheless, these delicate
 ecosystems are currently facing unparalleled challenges due to climate change, pollution, and human
 activities. It is crucial to implement effective monitoring and conservation measures to ensure the
-preservation of the health and diversity of coral reefs. The manually operated submarine is capable of
+preservation of the health and diversity of coral reefs. The manually operated submarine with dpdt switchesis capable of
 navigating in the water, measuring and collecting data of TDS level of water, temperature of water and
 pressure at the water various levels of water. For monitoring the collected data, we are using a Micro
 SD card module to store the collected data so that we can observe the data after getting out the
