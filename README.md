@@ -49,7 +49,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 
 <h2>Overall Framework</h2>
 
-<h3>1. ROS Architecture</h3>
+<h3>1. Methodology</h3>
 <br>
 <div align="center">
 <img src = "Images/Ros_architecture.png" width="100%">
@@ -57,7 +57,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 </div>
 
 
-<h3>2. Power System</h3>
+<h3>2. Circuit diagram for Arduino</h3>
 
 <br>
 
@@ -68,7 +68,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 
 
 
-<h3>3. Navigation Module</h3>
+<h3>3.Circuit diagram for raspberry pi-4 </h3>
 <br>
 
 <div align="center">
@@ -82,7 +82,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 </div>
 <br>
 
-<h3>2. Obstacle Avoidance System</h3>
+<h3>2. Prototype Images</h3>
 
 <br>
 
@@ -93,37 +93,7 @@ Autonomous Ground Vehicle </p>
 </div>
 
 
-
-## Results:
-
-https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/eaed8dc8-102f-4198-b432-6f4fb06c4e33
-
-
-
-https://github.com/abhimanyubhowmik/TrackerBot/assets/72135456/fcdceb95-c8d1-49dd-a1ec-9609045fa937
-
-
-
-
-  
-
-## Quick Links:
-
-
-
-
-
-## References Used:
-- https://github.com/vinay-lanka/navbot_hardware
-- https://github.com/leggedrobotics/darknet_ros
-- https://github.com/ros-drivers/usb_cam
-
-
-
-
-
-
-# output videos
+## Results
 Pushing and sucking
 
 This video demonstrates the pushing and suction mechanism of water!!
@@ -149,4 +119,28 @@ This video demonstrates the sucking mechanism of water!!
 This video demonstrates the setup of raspberry-pi4 without monitor
 
 ![Demo](.github/assets/rpi_setup_video.gif)
+
+
+
+
+
+  
+
+## Quick Links:
+
+
+
+
+
+
+## References Used:
+- https://github.com/vinay-lanka/navbot_hardware
+- https://github.com/leggedrobotics/darknet_ros
+- https://github.com/ros-drivers/usb_cam
+
+
+
+
+
+
 
