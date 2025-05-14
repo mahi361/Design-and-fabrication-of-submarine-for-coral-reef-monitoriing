@@ -45,11 +45,11 @@ submarine from water. Initially submarine is controlled using arduino uno and la
     <tr>  
     <td width=25%> <img src = "Component/water_pump.png" width="1005"><br>(i) </td>
     <td width=25%> <img src = "Components/uno cable.jpeg" width="100%"><br>(j) </td>
-    <td width=25%> <img src = "Components/syringes.jpg" width="100%"><br>(k) </td>
+    <td width=25%> <img src = "Components/syringes.jpeg" width="100%"><br>(k) </td>
     <td width=25%> <img src = "Components/dpdt.jpeg" width="100%"><br>(l) </td>
   </tr>
   <tr>  
-    <td width=25%> <img src = "Components/syringes.jpeg" width="1005"><br>(m) </td>
+    <td width=25%> <img src = "Components/acrylic.jpeg" width="1005"><br>(m) </td>
     <td width=25%> <img src = "Components/threaded rods.png" width="100%"><br>(n) </td>
     <td width=25%> <img src = "Components/li-ion batteris.png" width="100%"><br>(o) </td>
     <td width=25%> <img src = "Components/coupler.jpeg" width="100%"><br>(p) </td>
