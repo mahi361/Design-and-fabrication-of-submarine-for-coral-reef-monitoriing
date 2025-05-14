@@ -62,7 +62,7 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 </div>
 
 
-<h3>2. Circuit diagram for Arduino</h3>
+<h3>2. Circuit diagram for Raspberry pi-4</h3>
 
 <br>
 
@@ -73,17 +73,17 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 
 
 
-<h3>3.Circuit diagram for raspberry pi-4 </h3>
+<h3>3.Circuit diagram for Arduino uno </h3>
 <br>
 
 <div align="center">
 <table>
   <tr>
-    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit/motors.png" width="100%"><br>(a) </td>
-    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit/sensor_circuit.png" width="100%"><br>(b) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/motors_circuit.png" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Circuit_diagram/arduino_circuit_diagram/sensor_circuit.png" width="100%"><br>(b) </td>
   </tr>
 </table>
-<p>(a), (b) Detailed diagram of the basic Navigation module (left) The overall schematic architecture of Navigation Module (right).</p>
+<p>(a), (b) Circuit diagram for motors (left) Circuit diagram for sensors (right).</p>
 </div>
 <br>
 
@@ -92,10 +92,17 @@ submarine from water. Submarine is controlled using Raspberry pi 4.
 <br>
 
 <div align="center">
-<img src = "Images/Obstacle.png" width="70%">
-<p>TThe overall schematic architecture of the Obstacle Detection module in
-Autonomous Ground Vehicle </p>
+<table>
+  <tr>
+    <td width="50%"> <img src = "Prototype_submarine_imgs/ballast_prototype.jpg" width="100%"><br>(a) </td>
+    <td width="50%"> <img src = "Prototype_submarine_imgs/output_submarine_01.jpg" width="100%"><br>(b) </td>
+     <td width="50%"> <img src = "Prototype_submarine_imgs/submarine_01_prop.png" width="100%"><br>(b) </td>
+  </tr>
+</table>
+<p>(a), (b) , (c) Ballast System (left) subamarine output (right) Submarine output with propellor(down).</p>
 </div>
+<br>
+
 
 
 ## Results
