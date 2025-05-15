@@ -156,7 +156,7 @@ This video demonstrates the setup of raspberry-pi4 without monitor
 ## Quick Links:
 [![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/Report/DP4_FINAL_REPORT_HINDUSTAN.pdf)
 [![slides](https://img.shields.io/badge/Presentation-Slides-red)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/.github/assets/ppt-final.pdf)
-[![ICTAMDMES Confrence certficate](https://img.shields.io/badge/ICTAMDMES-Confrence-certficate-Yellow)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/.github/assets/CamScan_22-08-2024_15-00-15.pdf)
+[![ICTAMDMES Confrence certficate](https://img.shields.io/badge/ICTAMDMES-Confrence-Yellow)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/.github/assets/CamScan_22-08-2024_15-00-15.pdf)
 
 
 
