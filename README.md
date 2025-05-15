@@ -20,8 +20,8 @@ SD card module to store the collected data so that we can observe the data after
 submarine from water. Initially submarine is controlled using arduino uno and later on we replaced arduino uno with Raspberry pi 4.
 Group Members:
 
-* [Mhidhar kollipara](https://github.com/mahi361)
-* [G.Anirudh]
+* [Mahidhar kollipara](https://github.com/mahi361)
+* [G.Anirudh](https://in.linkedin.com/in/anirudh-gattamaneni-893884218)
 
 
 <h2>Submarine</h2>
