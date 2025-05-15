@@ -18,8 +18,8 @@ navigating in the water, measuring and collecting data of TDS level of water, te
 pressure at the water various levels of water. For monitoring the collected data, we are using a Micro
 SD card module to store the collected data so that we can observe the data after getting out the
 submarine from water. Initially submarine is controlled using arduino uno and later on we replaced arduino uno with Raspberry pi 4.
-Group Members:
 
+###Group Members:
 * [Mahidhar kollipara](https://github.com/mahi361)
 * [G.Anirudh](https://in.linkedin.com/in/anirudh-gattamaneni-893884218)
 
