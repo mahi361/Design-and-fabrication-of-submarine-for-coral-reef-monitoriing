@@ -155,25 +155,21 @@ This video demonstrates the setup of raspberry-pi4 without monitor
 
 ## Quick Links:
 [![report](https://img.shields.io/badge/Final-Report-brightgreen)](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/Report/DP4_FINAL_REPORT_HINDUSTAN.pdf)
+[![slides](https://img.shields.io/badge/Presentation-Slides-yellow)](https://docs.google.com/presentation/d/1VKnbscyB5XOs3nHPXggrUZ33LQrMDw7yvpHOzUAUC40/edit?usp=sharing)
 
 
 
 
 
 ## References Used:
--Obura, David O., et al. "Coral reef monitoring reef
-assessment
-technologies, and ecosystem-based
-management." Frontiers in Marine Science 6 (2019): 580.
+-Obura, David O., et al. "Coral reef monitoring reef assessment technologies, and ecosystem-based management." Frontiers in Marine Science 6 (2019): 580.
+
 -Hedley, John D., et al. "Remote sensing of coral reefs for monitoring and management: a review." Remote Sensing 8.2 (2016): 118.
+
 -Risk, Michael J. "Paradise lost: how marine science failed the world's coral reefs." Marine and Freshwater Research 50, no. 8 (1999): 831-837.
--Chanin joochim, Rattanakron, Phadungthin "Design and development of a remotely operated underwater vehicle" 2015 16th International Conference on Research and Education in ….., 2015-ieeexplore.ieee.org
--Coral Identification
-and
-Counting
-with an Autonomous Underwater Vehicle Md Modasshir; Sharmin
-Rahman; Oscar Youngquist; loannis Rekleitis 2018 IBBE
-> Monitoring coral reefs in optically-deep waters R. A. Armstrongl, H. Singh2, S. Riverol, and F. Gilbes Proceedings of the 11th International Coral Reef Symposium, Ft. Lauderdale, Florida, 7-11 July 2008 Session number 17
+-Chanin joochim, Rattanakron, Phadungthin "Design and development of a remotely operated underwater vehicle" 2015 16th International Conference on Research and Education in 2015-ieeexplore.ieee.org Coral Identification and Counting with an Autonomous Underwater Vehicle.
+
+Md Modasshir; Sharmin ,Monitoring coral reefs in optically-deep waters R. A. Armstrongl, H. Singh2, S. Riverol, and F. Gilbes Proceedings of the 11th International Coral Reef Symposium, Ft. Lauderdale, Florida, 7-11 July 2008 Session number 17
 
 
 
