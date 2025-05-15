@@ -161,7 +161,6 @@ This video demonstrates the setup of raspberry-pi4 without monitor
 
 
 
-
 ## References Used:
 -Obura, David O., et al. "Coral reef monitoring reef assessment technologies, and ecosystem-based management." Frontiers in Marine Science 6 (2019): 580.
 
