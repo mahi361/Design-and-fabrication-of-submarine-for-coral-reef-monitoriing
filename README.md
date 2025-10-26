@@ -156,7 +156,7 @@ This video demonstrates the setup of raspberry-pi4 without monitor
 ## Propeller rotation
 This video demonstrates the rotation of propeller in unreal engine
 
-![Demo]()
+![Demo](https://github.com/mahi361/Design-and-fabrication-of-submarine-for-coral-reef-monitoriing/blob/main/.github/preopellor_rotation_gif.gif)
 
 ## Unreal engine simulation
 This video demonstrates the movement of submarine underwater.
